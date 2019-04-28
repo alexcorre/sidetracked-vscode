@@ -1,0 +1,21 @@
+{
+    "name": "sidetracked-vscode",
+    "displayName": "Sidetracked Theme",
+    "description": "Dark theme with Sidetracked syntax highlighting",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sidetracked",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sidetracked.color-theme.json"
+            }
+        ]
+    }
+}
