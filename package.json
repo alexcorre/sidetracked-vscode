@@ -17,5 +17,11 @@
                 "path": "./themes/sidetracked.color-theme.json"
             }
         ]
+    },
+    "homepage": "https://github.com/alexcorre/sidetracked-vscode",
+    "publisher": "ac0publisher",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexcorre/sidetracked-vscode.git"
     }
 }
