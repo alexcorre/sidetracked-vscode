@@ -19,7 +19,7 @@
         ]
     },
     "homepage": "https://github.com/alexcorre/sidetracked-vscode",
-    "publisher": "ac0publisher",
+    "publisher": "alexcorre",
     "repository": {
         "type": "git",
         "url": "https://github.com/alexcorre/sidetracked-vscode.git"
